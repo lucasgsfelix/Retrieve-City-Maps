@@ -1,0 +1,42 @@
+{
+	"Italy":
+	[
+		{"City": "Roma", "State": "Lazio", "Country": "Italy"},
+		{"City": "Pisa", "State": "Tuscany", "Country": "Italy",
+		"Bounderies": {"north": 44.0224, "south": 42.9162, "east": 11.9119, "west": 9.3576}},
+		{"City": "San Gimignano", "State": "Siena, Tuscany", "Country": "Italy",
+		"Bounderies": {"north": 43.6227, "south": 43.3462, "east": 11.4237, "west": 10.7851}}
+	],
+	"Brazil": 
+	[
+		{"City": "Ouro Preto", "State": "Minas Gerais", "Country": "Brazil"},
+		{"City": "Tiradentes", "State": "Minas Gerais", "Country": "Brazil"},
+		{"City": "Rio De Janeiro", "State": "Rio de Janeiro", "Country": "Brazil"}
+	],
+	"USA":
+	[
+		{"City": "New York", "State": "New York", "Country": "USA"}
+	],
+	"France":
+	[
+		{"City": "Paris", "State": "Paris", "Country": "France"},
+		{"City": "Cannes", "State": "Provence-Alpes-Côte d'Azur", "Country": "France"}
+	],
+	"United Kingdom":
+	[
+		{"City": "London City", "State": "Greater London", "Country": "England",
+		"Bounderies": {"north": 51.7270, "south": 51.2525, "east": 0.5507, "west": -0.7265}}
+	],
+	"Spain": 
+	[
+		{"City": "Ibiza", "State": "Balearic Islands", "Country": "Spain"}
+	],
+	"Belgium":
+	[
+		{"City": "Bruges", "State": "Flemish", "Country": "Belgium"}
+	],
+	"Japan":
+	[
+		{"City": "Tokyo", "State": "Kantō", "Country": "Japan"}
+	]
+}
